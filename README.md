@@ -4,3 +4,5 @@
 
 
 This is just a personal software developing project. Feel free to use anything in here.
+
+PlatyPi Workstation is a browser-based software (Built for Chromebooks in education) that allows offline use of different everyday software.
